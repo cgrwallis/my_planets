@@ -2,4 +2,8 @@ Mercury
 Venus
 Earth
 Mars
+Jupiter
+Saturn
+Uranus
+Neptune
 #TODO ADD MORE PLANETS
