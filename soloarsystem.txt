@@ -1,2 +1,5 @@
 Mercury
+Venus
+Earth
+Mars
 #TODO ADD MORE PLANETS
