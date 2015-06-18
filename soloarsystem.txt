@@ -1,8 +1,10 @@
 Mercury
 Venus
-Earth
-Mars
-Jupiter
+Earth - this is where I live
+Mars - red
+Jupiter - gasy
 Saturn
 Uranus
 Neptune
+Pluto
+Deimos
